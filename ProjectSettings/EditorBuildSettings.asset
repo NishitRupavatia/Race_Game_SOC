@@ -20,13 +20,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Lobby.unity
     guid: a7f489b26d73f574ea3d7e4c7d604b88
-  - enabled: 1
-    path: Assets/Scenes/ActualRace.unity
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/racing.unity
     guid: 0cd34baf6017c964b96327b65c91a97a
   - enabled: 0
     path: Assets/Scenes/race.unity
     guid: 70fe67b7a383ca94198928630a6cf066
+  - enabled: 1
+    path: Assets/Scenes/ActualRace.unity
+    guid: c58e8a201a2fea9438f09ebc498dd951
   m_configObjects: {}
